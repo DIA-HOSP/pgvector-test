@@ -32,3 +32,10 @@
 - username: postgres
 - pw: test
 
+## GIT 간단한 명령어
+
+- `git pull`
+- `git add .`
+- `git commit -m "커밋 내용"`
+- `git push`
+
