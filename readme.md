@@ -11,7 +11,7 @@
     - `.\.venv\Scripts\Activate.ps1`
 
 ## 2. 라이브러리 설치
-- `pip install -r requirements.txt`
+- `pip install -r ./requirements.txt`
 
 ## 3. dia-sys.json
 - 인증정보가 있는 파일이므로 따로 전달
