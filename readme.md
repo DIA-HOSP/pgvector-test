@@ -6,7 +6,7 @@
 - 스크립트 권한 부여
     - `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser`
 - 가상환경 생성 
-    - `python3 -m venv .venv`
+    - `python -m venv .venv`
 - 가상환경 실행
     - `.\.venv\Scripts\Activate.ps1`
 
