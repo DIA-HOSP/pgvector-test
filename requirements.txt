@@ -1,0 +1,5 @@
+functions-framework
+flask
+psycopg2-binary
+google-cloud-aiplatform
+google-auth
