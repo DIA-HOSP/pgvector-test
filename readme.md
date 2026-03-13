@@ -30,5 +30,5 @@
 - host: 34.64.252.205
 - port: 5432
 - username: postgres
-- test
+- pw: test
 
